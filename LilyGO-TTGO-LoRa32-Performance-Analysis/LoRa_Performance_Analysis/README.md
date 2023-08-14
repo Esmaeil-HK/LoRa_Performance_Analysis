@@ -17,6 +17,9 @@ https://github.com/cubapp/LilyGO-TTGO-LoRa32-SenderReceiver
 2. upload speed:  921600
 3. flash frequency: 80MHz
 
+   ![LoRa32_Devices](https://github.com/Esmaeil-HK/LoRa_Performance_Analysis/assets/87222832/28b4060e-83c7-4fc8-a3d1-251db8864765)
+
+
 ## Building the code:
 At first change the appropriate define in <board_def.h> - whether you compile Sender (LORA_SENDER 1) or Receiver (LORA_SENDER 0). Then change the frequency to 868MHz
 
