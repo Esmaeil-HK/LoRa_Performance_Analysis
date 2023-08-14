@@ -2,7 +2,7 @@
  
 
 * The sender sends: "Counter" with the counter number 
-* The receiver shows: Internal counter, SNR and RSSi for LoRa packets plus received payload (Sender's Counter and numer )
+* The receiver shows: Internal counter, SNR and RSSi for LoRa packets plus received payload (Sender's Counter and number )
 
 The code is derived and simplified from: 
 https://github.com/cubapp/LilyGO-TTGO-LoRa32-SenderReceiver
@@ -29,4 +29,4 @@ At first change the appropriate define in <board_def.h> - whether you compile Se
 //#define LORA_PERIOD 433  
 ```
 
-
+![Project Image](LilyGO-TTGO-LoRa32-Performance-Analysis/LoRa_Performance_Analysis/LoRa32 Devices.png)
