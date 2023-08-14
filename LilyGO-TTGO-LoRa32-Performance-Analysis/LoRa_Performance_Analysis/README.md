@@ -29,4 +29,4 @@ At first change the appropriate define in <board_def.h> - whether you compile Se
 //#define LORA_PERIOD 433  
 ```
 
-![Project Image](LilyGO-TTGO-LoRa32-Performance-Analysis/LoRa_Performance_Analysis/LoRa32 Devices.png)
+
